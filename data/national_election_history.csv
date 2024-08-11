@@ -1,4 +1,4 @@
-election,federalist,anti_federalist,democratic_republican,democratic,national_republican,whig,republican,other,NOTE
+election,federalist,anti_federalist,democratic_republican,democratic,national_republican,whig,republican,third_party,NOTE
 1788,0.8737,0.1263,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,"George Washington was nonpartisan and received 100% of the vote, but party divides are calculated using popular vote for vice presidential candidate."
 1792,0.6063,0.0000,0.3937,0.0000,0.0000,0.0000,0.0000,0.0000,"George Washington was nonpartisan and received 100% of the vote, but party divides are calculated using electoral votes for vice presidential candidate."
 1796,0.5330,0.0000,0.4670,0.0000,0.0000,0.0000,0.0000,0.0000,
